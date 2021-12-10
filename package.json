@@ -1,0 +1,25 @@
+{
+  "name": "node_pdfsigner",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "pdfjs-dist": "^2.9.359"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asafdoron/node-pdfSigner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asafdoron/node-pdfSigner/issues"
+  },
+  "homepage": "https://github.com/asafdoron/node-pdfSigner#readme"
+}
